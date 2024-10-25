@@ -1,5 +1,6 @@
 @import  './typography.css';
 @import  './layout.css';
+@import './media-query.css';
 @font-face {
     src: url(../fonts/Ubuntu-Regular.ttf);
     font-family: Ubuntu;
