@@ -2,14 +2,22 @@
 
 This project is a simple blog website with a responsive design that includes:
 - Homepage (`index.html`)
+- About me Page (`about-me.html`)
 - Blog Post Page (`blog-post.html`)
   
 ## General Structure of the Webpages
 ### Blog Homepage
 - Header
 - Navbar
+- Author information
 - Blog Post Card
-- Card with Image, and Links
+- Card with Figure,Image,Figcaption and Links
+- Button view more
+- Footer
+### About me Page
+- Header
+- About me main text
+- Aside main image
 - Footer
 ### Blog Post Page
 - Header
@@ -21,6 +29,7 @@ This project is a simple blog website with a responsive design that includes:
 The CSS files are organized as follows:
 - `typography.css`: Handles fonts, text sizes, and styles.
 - `layout.css`: Manages the layout with Flexbox and Grid.
+- `media-query.css`: Apply CSS styles depending on various devices' screen sizes.
   
 ## Layout Details
 - Flexbox-Based Layout: Used for smaller components like cards and navigation.

@@ -25,7 +25,12 @@ h3 {
 }
 
 .subtitle {
-    color: #d3d3d3;
+    color: #a9a9a9;
+    font-size: 0.9rem;
+    margin-bottom: 1.5em;
+}
+.dark-subtitle{
+    color: #1f2a44;
     font-size: 0.9rem;
     margin-bottom: 1.5em;
 }
